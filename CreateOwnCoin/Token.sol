@@ -1,3 +1,9 @@
+/**
+* @Author : Sucharita Mondal
+* @Description : Building our own coin on Ethereum platform/Blockchain
+* @Reference : https://www.blocktrain.info/course/complete-solidity-course/MC0oynXvTmDDPgzyykCs
+*/
+
 //SPDX-License-Identifier: Unlicense
 
 //shows solidity compiler version
