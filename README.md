@@ -1,6 +1,6 @@
 # ReadMe
 
-This repo consists of Solidity projects. This focuses on learning Solidity while building some pet projects at the same time.
+This repo consists of Solidity projects. This focuses on learning Solidity while building some pet projects.
 
 Apart from this, if you are developer and want to contribute please follow the below instructions:
 
