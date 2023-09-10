@@ -1,6 +1,6 @@
 /**
 * @Author : Sucharita Mondal
-* @Description : Ownable Contract
+* @Description : Removing Array element by Shifting elements
 */
 
 
