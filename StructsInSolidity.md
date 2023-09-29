@@ -41,4 +41,4 @@ function getHero() external view returns (Hero memory) {
 }
 
 ```
-Ref: ![Returing Structs](https://university.alchemy.com/course/solidity/sc/64daa11e0264c500022dc1dd/stage/64daa11e0264c500022dc1fe)
+Ref: ![Returing Structs](https://university.alchemy.com/course/solidity/)
