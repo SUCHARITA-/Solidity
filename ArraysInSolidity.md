@@ -4,9 +4,10 @@
 Fixed sized arrays have a set amount of values at compile-time. These arrays have their size determined at compile-time and they cannot grow or shrink in size.
 
 Example of fixed sized array:
-
+```
 uint[3] intArray = [1,2,3];
 bool[4] boolArray = [true, false, false, true];
+```
 
 
 ## Dynamic Sized Array
