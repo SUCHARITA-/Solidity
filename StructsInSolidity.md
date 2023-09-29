@@ -20,7 +20,7 @@ Cloth cloth = Cloth(Color.Red, "Linen");
 ```
 
 
-## Returing Structs
+## Returning Structs
 When you're returning structs or other reference types like arrays, you have to clarify where the data is coming from using data location keywords: storage, memory, or calldata.
 
 However, for external and public methods, you can't use the storage keyword for the return parameter. The storage keyword would provide a direct reference to a location within the contract's own persistent storage, which cannot be accessed outside of the contract. Use memory or calldata instead to return a copy of the data.
@@ -41,4 +41,4 @@ function getHero() external view returns (Hero memory) {
 }
 
 ```
-Ref: [Returing Structs](https://university.alchemy.com/course/solidity/sc/64daa11e0264c500022dc1dd/stage/64daa11e0264c500022dc1fe)
+Ref: [Returning Structs](https://university.alchemy.com/course/solidity/sc/64daa11e0264c500022dc1dd/stage/64daa11e0264c500022dc1fe)
