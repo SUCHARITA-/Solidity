@@ -96,5 +96,5 @@ contract TestIterableMap {
 ```
 
 ## More Examples:
-[rayonprotocol](https://medium.com/rayonprotocol/creating-a-smart-contract-having-iterable-mapping-9b117a461115)
-[programtheblockchain](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
+*[rayonprotocol](https://medium.com/rayonprotocol/creating-a-smart-contract-having-iterable-mapping-9b117a461115)
+*[programtheblockchain](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
