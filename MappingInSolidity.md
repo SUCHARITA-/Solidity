@@ -6,6 +6,8 @@ Mapping types use the syntax mapping ```(_KeyType => _ValueType)``` and variable
 You can think of mappings as hash tables, which are virtually initialised such that every possible key exists and is mapped to a value whose byte-representation is all zeros, a type’s default value. The similarity ends there, the key data is not stored in a mapping, only its keccak256 hash is used to look up the value.
 
 ## Iterable Mapping Example
+You cannot iterate over mappings, i.e. you cannot enumerate their keys. It is possible, though, to implement a data structure on top of them and iterate over that.
+
 This example is taken from [https://solidity-by-example.org/](https://solidity-by-example.org/app/iterable-mapping/)
 
 ```
@@ -92,3 +94,7 @@ contract TestIterableMap {
 }
 
 ```
+
+## More Examples:
+[rayonprotocol](https://medium.com/rayonprotocol/creating-a-smart-contract-having-iterable-mapping-9b117a461115)
+[programtheblockchain](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
